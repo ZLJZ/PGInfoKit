@@ -7,7 +7,7 @@
 //
 
 #import "PanGuRefreshHeader.h"
-#import "Masonry.h"
+#import "PGInfo.h"
 @interface PanGuRefreshHeader()
 
 @end

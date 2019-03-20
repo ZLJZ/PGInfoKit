@@ -7,7 +7,7 @@
 //
 
 #import "PanGuRefreshFooter.h"
-#import "Masonry.h"
+#import "PGInfo.h"
 
 @interface PanGuRefreshFooter()
 @property (weak, nonatomic) UILabel *label;
