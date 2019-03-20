@@ -1,0 +1,453 @@
+{
+    "color" : {
+        "common": {
+            "alert": {
+                "back": "#FFFFFF",
+                "title": "#000000",
+                "mask": "#0000007F"
+            },
+            "business": {
+                "fall": "#28A946",
+                "flat": "#999999",
+                "rise": "#E84342"
+            },
+            "button": {
+                "search": {
+                    "text": "#FFFFFF",
+                    "back": "#F2AD27",
+                    "width": "48",
+                    "height": "24"
+                },
+                "alertback": "#DCDCDC",
+                "alertunenabletext": "#B2B2B2",
+                "enabletext": "#FFFFFF",
+                "enableback": "#E84342",
+                "unenabletext": "#4A4A4A",
+                "unenableback": "#31313D",
+                "canceltext": "#4A4A4A",
+                "cancelback": "#F0F0F0"
+            },
+            "refreshtext": "#999999",
+            "funcblock": {
+                "text": "#DCDCDC",
+                "titleback": "#21212B",
+                "contentback": "#21212B"
+            },
+            "toast": {
+                "text": "#4A4A4A",
+                "back": "#FFFFFF27"
+            },
+            "global": {
+                "icontext": "#DCDCDC",
+                "text": "#DCDCDC",
+                "remarktext": "#999999",
+                "linktext": "#368DE7",
+                "back": "#1A1A23",
+                "targetLabel": "#DEB782",
+                "whiteLabel": "#FFFFFF",
+                "indicatorStyle" : "UIActivityIndicatorViewStyleWhite"
+            },
+            "list": {
+                "contenttext": "#DCDCDC",
+                "remarktext": "#999999",
+                "contentback": "#21212B",
+                "titleunenabletext": "#999999",
+                "titleenabletext": "#DCDCDC",
+                "back": "#21212B"
+            },
+            "doublelist": {
+                "title": "#999999",
+                "content": "#4A4A4A"
+            },
+            "funclist1": {
+                "text": "#DCDCDC",
+                "back": "#21212B"
+            },
+            "funclist2": {
+                "text": "#DCDCDC",
+                "remark": "#999999",
+                "back": "#21212B"
+            },
+            "textfield": {
+                "placeholder": "#4A4A4A",
+                "title": "#999999",
+                "content": "#DCDCDC",
+                "back": "#21212B"
+            },
+            "content": {
+                "title": "#FFFFFF",
+                "detail": "#DCDCDC",
+                "remark": "#999999",
+                "back": "#21212B",
+                "contentback": "#31313d",
+                "contenttext": "#deb782"
+            },
+            "pagelabelnav": {
+                "pagelabelnav1": {
+                    "seltext": "#DEB782",
+                    "unseltext": "#DCDCDC",
+                    "line": "#DEB782",
+                    "back": "#21212B"
+                },
+                "pagelabelnav2": {
+                    "seltext": "#DEB782",
+                    "unseltext": "#DCDCDC",
+                    "line": "#DEB782",
+                    "back": "#21212B"
+                }
+            },
+            "navigationhtml5": {
+                "text": "#DCDCDC",
+                "back": "#1A1A23"
+            },
+            "pull": {
+                "text": "#4A4A4A",
+                "back": "#FFFFFF"
+            },
+            "separationline": {
+                "barshadow": "#0000007F",
+                "border" : "#4A4A4A",
+                "fullscreen": "#4A4A4A",
+                "navshadow": "#0000007F",
+                "unfullscreen": "#4A4A4A",
+                "verticalline": "#4A4A4A"
+            },
+            "tabbar": {
+                "unseltext": "#DCDCDC",
+                "seltext": "#E84342",
+                "back": "#21212B"
+            },
+            "unusual": {
+                "text": "#999999",
+                "toasttext": "#FFFFFF",
+                "toastback": "#E84342"
+            },
+            "navigation": {
+                "title": "#DCDCDC",
+                "subtitle": "#999999",
+                "unseltext": "#4A4A4A",
+                "seltext": "#DEB782",
+                "back": "#21212B"
+            },
+            "whiteStatusBar": {
+                "style": "UIStatusBarStyleLightContent"
+            },
+            "blackStatusBar": {
+                "style": "UIStatusBarStyleLightContent"
+            }
+        },
+        "home" :  {
+            "sudoku":{
+                "usedBackColor":"#DEB7820F",
+                "backColor":"#31313d"
+            }
+        },
+        "market": {
+            "searchNavigation": {
+                "back": "#1A1A23"
+            },
+            "searchPageTopView": {
+                "title": "#FFFFFF",
+                "back":"#1A1A23"
+            },
+            "common": {
+                "listback": "#1A1A23"
+            },
+            "detail" : {
+                "wave" : {
+                    "fall": "#000000",
+                    "flat": "#000000",
+                    "rise": "#000000",
+                    "transparencyRise": "E8434213",
+                    "transparencyFlat": "9999991A",
+                    "transparencyFall": "28A9461A"
+                },
+                "text" : {
+                    "fall": "#28A946",
+                    "flat": "#999999",
+                    "rise": "#E84342"
+                }
+            },
+            "toolbar": {
+                "back": "#FFFFFF",
+                "text": "#4A4A4A"
+            }
+        },
+        "trade": {
+            "fundshare": {
+                "rise": "#422129",
+                "flat": "#422129",
+                "fall": "#422129"
+            },
+            "pulllist": {
+                "back": "#23232E",
+                "separation": "#1A1A23",
+                "fold": "#1A1A23"
+            },
+            "position": {
+                "rise": "#E84342",
+                "flat": "#999999",
+                "fall": "#28A946"
+            },
+            "gradientColor":{
+                "first":"#31313D",
+                "second":"#31313D"
+            },
+            "vote": {
+                "buttonDefult": "4A4A4A"
+            },
+            "normalGradientColor": {
+                "first":"#31313D",
+                "second":"#31313D"
+            },
+            "creditGradientColor": {
+                "first":"#31313D",
+                "second":"#31313D"
+            },
+            "buysell" : {
+                "limitorder" : {
+                    "unback" : "#4A4A4A",
+                    "back" : "#368DE7"
+                }
+            },
+            "remarkText": "#999999",
+            "homeRemarkText": "#DCDCDC"
+        },
+        "mall": {
+            "listHyperlinks": "#DEB782",
+            "businessRise": "#DEB782",
+            "businessFlat": "#DEB782",
+            "businessFall": "#DEB782",
+            "homeNav": "#21212B",
+            "hotSearch": "#31313D",
+            "searchBack": "#F0F0F00D",
+            "homeSearchBack": "#F0F0F00D",
+            "lineChartFillColor": "#2C3445",
+            "homeStatement": "#1A1A23"
+        },
+        "mine": {
+            "home" : {
+                "shadowColor" : "#E8434200"
+            },
+            "msg" : {
+                "shadowColor" : "#000000",
+                "maskColor" : "#21212B66",
+                "dateTextColor" : "#1A1A23",
+                "bubbleTextColor" : "#4A4A4A"
+            }
+        }
+    },
+    "image" : {
+        "common" : {
+            "agreed_sel" : "shidangxing0",
+            "back" : "backicon",
+            "multiplechoice" : "",
+            "multiplechoice_sel" : "",
+            "right_arrow" : "",
+            "search" : "",
+            "share" : "",
+            "singlechoice" : "",
+            "singlechoice_sel" : ""
+        },
+        "home" : {
+            "nineCells" : {
+                "choumafenbu" : "",
+                "guozhainihuigou" : "",
+                "gupiaochicang" : "",
+                "gupiaomaichu" : "",
+                "gupiaomairu" : "",
+                "gushihuiyilu" : "",
+                "gushiyuezhangdan" : "",
+                "hongshanhuzixun" : "",
+                "jijinchicang" : "",
+                "jijindingtou" : "",
+                "jisukaihu" : "",
+                "kequzijin" : "",
+                "myaccount" : "",
+                "niuxiaoer" : "",
+                "otcchicang" : "",
+                "qijiandian" : "",
+                "remailicai" : "",
+                "resougupiao" : "",
+                "taipingyangyanjiu" : "",
+                "wodexiaoxi" : "",
+                "xiangsikxian" : "",
+                "xingushengou" : "",
+                "yewubanli" : "",
+                "yinzhengzhuanzhang" : "",
+                "zichanfenxi" : "",
+                "zixuangu" : "",
+                "zixuanguxinwen" : "",
+                "zixunyaowen" : "",
+                "zongzichan" : ""
+            },
+            "hotSale":{
+                "jijinchicang":"mall_fund_holder_deep"
+            }
+        },
+        "market" : {
+            "common" : {
+                "hq_header_hq_normal" : "hq_header_hq_normal_dark",
+                "hq_header_hq_select" : "hq_header_hq_select_dark",
+                "hq_header_optional_normal" : "hq_header_optional_normal_dark",
+                "hq_header_optional_select" : "hq_header_optional_select_dark",
+                "hq_header_policy_normal" : "hq_header_policy_normal_dark",
+                "hq_header_policy_select" : "hq_header_policy_select_dark",
+                "hq_filer_down" : "hq_filer_down_dark",
+                "hq_filter_normal" : "hq_filter_normal_dark",
+                "hq_hk_open_account" : "hq_hk_open_account_dark"
+            },
+            "optional" : {
+                "hq_optional_darkdown" : "hq_optional_darkdown_dark",
+                "hq_optional_dongtai" : "hq_optional_dongtai_dark",
+                "hq_optional_dujia" : "hq_optional_dujia_dark",
+                "hq_optional_edit" : "hq_optional_edit_dark",
+                "hq_optional_lightdown" : "hq_optional_lightdown_dark",
+                "hq_optional_zixun" : "hq_optional_zixun_dark",
+                "hq_optionaledit_addhold" : "hq_optionaledit_addhold_dark",
+                "hq_optionaledit_alert" : "hq_optionaledit_alert_dark",
+                "hq_optionaledit_select" : "hq_optionaledit_select_dark",
+                "hq_optionaledit_sort" : "hq_optionaledit_sort_dark",
+                "hq_optionaledit_totop" : "hq_optionaledit_totop_dark"
+            }
+        },
+        "mall" : {
+            "huoqi" : "malldarkhuoqi",
+            "dingqi" : "malldarkdingqi",
+            "jijin" : "malldarkjijin",
+            "gengduo" : "malldarkgengduo",
+            "jijinpaihang" : "malldarkjijinpaihang",
+            "zhutitouzi" : "malldarkzhutitouzi",
+            "jingxuanjijin" : "malldarkjingxuanjijin",
+            "dingtouzhuanqu" : "malldarkdingtouzhuanqu",
+            "shoufajijin" : "malldarkshoufajijin",
+            "jijinzixun" : "malldarkjijinzixun",
+            "yuyuechenggong": "mall_revise_success_gold",
+            "mall_yuyueyiman": "mall_yuyueyiman_dark",
+            "mall_yishouqing": "mall_yishouqing_dark",
+            "mall_yixiajia": "mall_yixiajia_dark"
+        },
+        "mine" : {
+            "gushihuiyilv" : "minedarkgushihyl",
+            "gushiyuezhangdan" : "minedarkgushiyzd",
+            "kefurenxian" : "minedarkkefurexian",
+            "kehujingli" : "minedarkkehujingli",
+            "wodetixing" : "minedarkwodetixing",
+            "yijianfankui" : "mineydarkijianfankui",
+            "yingyewangdian" : "minedarkyingyewangdian",
+            "zhinengkefu" : "minedarkzhinengkefu",
+            "zhuanzhangmingxi" : "minedarkzhuanzhangmx",
+            "zichanfenxi" : "minedarkzichanfenxi"
+        },
+        "trade" : {
+            "changneijijin" : "",
+            "chanpinchaxun" : "",
+            "chicanggupiao" : "",
+            "common" : {
+                "chedan" : "",
+                "chengjiaochaxun" : "",
+                "fene" : "",
+                "gengduo" : "",
+                "jiaogedan" : "",
+                "rengou" : "",
+                "shengou" : "",
+                "shuhui" : "",
+                "wangluotoupiao" : "",
+                "weituochaxun" : ""
+            },
+            "danbaopinmaimai" : "",
+            "danbaopinzhengquanchaxun" : "",
+            "dianzihetong" : "",
+            "diaobojiluchaxun" : "",
+            "duoyinhangyuechaxun" : "",
+            "eftshuhui" : "",
+            "etfchengfenguchaxun" : "",
+            "etfrengouchaxun" : "",
+            "etfrengouchedan" : "",
+            "etfshengou" : "",
+            "etfshenshuchedan" : "",
+            "etfwangshangxianjinrengou" : "",
+            "etfwangxiagupiaorengou" : "",
+            "fenhongshezhi" : "",
+            "fenjijijinchedan" : "",
+            "fenjijijinfenchai" : "",
+            "fenjijijinhebing" : "",
+            "fuzhailiushui" : "",
+            "gupiaomaichu" : "",
+            "gupiaomairu" : "",
+            "gushiyuezhangdanback" : "",
+            "heyuezhanqi" : "",
+            "huankuan" : "",
+            "huanquan" : "",
+            "huobijijin" : "",
+            "jijindianzihetongqianshu" : "",
+            "jijindingtou" : "",
+            "jijinkaihu" : "",
+            "jijinxinxi" : "",
+            "jijinzhanghuchaxun" : "",
+            "jijinzhuanhuan" : "",
+            "kuajingetfshengou" : "",
+            "kuajingetfshuhui" : "",
+            "kuashichangetfshengou" : "",
+            "kuashichangetfshuhui" : "",
+            "lishichengjiao" : "",
+            "otczhanghu" : "",
+            "rongmairongmai" : "",
+            "rongquanbiaodechaxun" : "",
+            "rongquanheyue" : "",
+            "rongzibiaodechaxun" : "",
+            "rongziheyue" : "",
+            "toupiaochaxun" : "",
+            "weiliaojieheyue" : "",
+            "yiliaojieheyue" : "",
+            "yinhanglicaipingce" : "",
+            "yinhangzhuanzhengquan" : "",
+            "yinzhengzhuanzhang": {
+                "textfieldBg":"trade_bankGray"
+            },
+            "zhanghu" : "",
+            "zhanghuzonglanback" : "",
+            "zhanghuzonglanxinyongback" : "",
+            "zhengquanzhuanyinhang" : "",
+            "zhuanzhangliushuichaxun" : "",
+            "zichanfuzhai" : "",
+            "zijiliushuichaxun" : "",
+            "zijindiaobo" : "",
+            "zijinguiji" : "",
+            "zijinmingxi" : "",
+            "zongzichanback" : "",
+            "zonhgzichanfenxiback" : "",
+            "banklist":{
+                "bj":"banklogo_bjbank_white",
+                "gd":"banklogo_gdbank_white",
+                "gf":"banklogo_gfbank_white",
+                "gs":"banklogo_gsbank_white",
+                "hx":"banklogo_hxbank_white",
+                "js":"banklogo_jsbank_white",
+                "jt":"banklogo_jtbank_white",
+                "ms":"banklogo_msbank_white",
+                "nb":"banklogo_nbbank_white",
+                "ny":"banklogo_nybank_white",
+                "pa":"banklogo_pabank_white",
+                "pf":"banklogo_pfbank_white",
+                "sh":"banklogo_shbank_white",
+                "xy":"banklogo_xybank_white",
+                "yz":"banklogo_yzbank_white",
+                "zg":"banklogo_zgbank_white",
+                "zs":"banklogo_zsbank_white",
+                "zx":"banklogo_zxbank_white"
+            },
+            "weituotijiao":"mall_commitimg_dark"
+        },
+        "tabbar" : {
+            "home" : "",
+            "home_sel" : "",
+            "market" : "",
+            "market_sel" : "",
+            "mine" : "",
+            "mine_sel" : "",
+            "trade" : "",
+            "trade_sel" : ""
+        }
+    }
+}

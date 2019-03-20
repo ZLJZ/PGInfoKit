@@ -1,0 +1,6 @@
+framework module PGInfoKit {
+  umbrella header "PGInfoKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

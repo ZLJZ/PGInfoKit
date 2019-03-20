@@ -1,0 +1,6 @@
+framework module PGModelKit {
+  umbrella header "PGModelKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

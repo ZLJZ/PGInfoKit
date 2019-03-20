@@ -1,0 +1,23 @@
+//
+//  PanGu_Base_Bms.pch
+//  PanGu
+//
+//  Created by 陈伟平 on 16/6/16.
+//  Copyright © 2016年 Security Pacific Corporation. All rights reserved.
+//
+
+#ifndef PanGu_Base_Bms_pch
+#define PanGu_Base_Bms_pch
+
+
+#ifdef __OBJC__
+//导入所有头文件
+#import "PanGu_Base_Bms.h"
+//存放系统定义
+#import "AllConstDefine.h"
+//存放关键定义
+#import "PanGu_ConfigBase_Bms.h"
+
+#endif
+
+#endif /* PanGu_Base_Bms_pch */

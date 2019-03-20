@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		06C28BAA0C29529AF1384968 /* Pods-PGInfoKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PGInfoKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PGInfoKit_Example/Pods-PGInfoKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		407C96A12DAF0DE7E99485B5 /* PGInfoKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = PGInfoKit.podspec; path = ../PGInfoKit.podspec; sourceTree = "<group>"; };
+		407C96A12DAF0DE7E99485B5 /* PGInfoKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PGInfoKit.podspec; path = ../PGInfoKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58A195388D20070C39A /* PGInfoKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PGInfoKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -61,10 +61,10 @@
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8AC7FCCB5D84AC4903100104 /* Pods_PGInfoKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PGInfoKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8D3BE0CFEF83B867F3C521BC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		8D3BE0CFEF83B867F3C521BC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A09CF2AAA75E8464A2691150 /* Pods-PGInfoKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PGInfoKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-PGInfoKit_Example/Pods-PGInfoKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		BA5DDCC0B424DEABF4CEE67E /* Pods-PGInfoKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PGInfoKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-PGInfoKit_Tests/Pods-PGInfoKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		D291FFC9C346F158C03D46F1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		D291FFC9C346F158C03D46F1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		EC59E521C1C83C2CB4B309C9 /* Pods_PGInfoKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PGInfoKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD1E6AE6997EB261B857639A /* Pods-PGInfoKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PGInfoKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-PGInfoKit_Tests/Pods-PGInfoKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -247,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = Cicada;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = 9B9S6USPHN;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -319,11 +322,25 @@
 			);
 			inputPaths = (
 				"${SRCROOT}/Pods/Target Support Files/Pods-PGInfoKit_Example/Pods-PGInfoKit_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/PGInfoKit/PGInfoKit.framework",
+				"${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework",
+				"${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework",
+				"${BUILT_PRODUCTS_DIR}/PGModelKit/PGModelKit.framework",
+				"${BUILT_PRODUCTS_DIR}/PGNetworkKit/PGNetworkKit.framework",
+				"${BUILT_PRODUCTS_DIR}/PGToolKit/PGToolKit.framework",
+				"${BUILT_PRODUCTS_DIR}/Reachability/Reachability.framework",
+				"${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PGInfoKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AFNetworking.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MBProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MJRefresh.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PGModelKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PGNetworkKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PGToolKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Reachability.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDWebImage.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -485,6 +502,7 @@
 			baseConfigurationReference = 06C28BAA0C29529AF1384968 /* Pods-PGInfoKit_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9B9S6USPHN;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PGInfoKit/PGInfoKit-Prefix.pch";
 				INFOPLIST_FILE = "PGInfoKit/PGInfoKit-Info.plist";
@@ -500,6 +518,7 @@
 			baseConfigurationReference = A09CF2AAA75E8464A2691150 /* Pods-PGInfoKit_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9B9S6USPHN;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "PGInfoKit/PGInfoKit-Prefix.pch";
 				INFOPLIST_FILE = "PGInfoKit/PGInfoKit-Info.plist";

@@ -1,0 +1,39 @@
+{
+  "name": "PGInfoKit",
+  "version": "0.1.0",
+  "summary": "A short description of PGInfoKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZLJZ/PGInfoKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cicada": "wuxl@orbyun.com"
+  },
+  "source": {
+    "git": "https://github.com/ZLJZ/PGInfoKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PGInfoKit/Classes/**/*",
+  "dependencies": {
+    "MJRefresh": [
+      "~> 3.1.15"
+    ],
+    "MBProgressHUD": [
+      "~> 1.1.0"
+    ],
+    "PGModelKit": [
+      "0.1.0"
+    ],
+    "PGToolKit": [
+      "0.1.4"
+    ],
+    "PGNetworkKit": [
+      "0.1.6"
+    ]
+  }
+}

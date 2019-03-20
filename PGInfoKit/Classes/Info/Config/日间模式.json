@@ -1,0 +1,453 @@
+{
+    "color" : {
+        "common": {
+            "alert": {
+                "back": "#FFFFFF",
+                "title": "#000000",
+                "mask": "#0000007F"
+            },
+            "business": {
+                "fall": "#28A946",
+                "flat": "#999999",
+                "rise": "#E84342"
+            },
+            "button": {
+                "search": {
+                    "text": "#FFFFFF",
+                    "back": "#F2AD27",
+                    "width": "48",
+                    "height": "24"
+                },
+                "alertback": "#DCDCDC",
+                "alertunenabletext": "#B2B2B2",
+                "enabletext": "#FFFFFF",
+                "enableback": "#E84342",
+                "unenabletext": "#B2B2B2",
+                "unenableback": "#DCDCDC",
+                "canceltext": "#4A4A4A",
+                "cancelback": "#F0F0F0"
+            },
+            "refreshtext": "#999999",
+            "funcblock": {
+                "text": "#4A4A4A",
+                "titleback": "#FFFFFF",
+                "contentback": "#FFFFFF"
+            },
+            "toast": {
+                "text": "#FFFFFF",
+                "back": "#00000099"
+            },
+            "global": {
+                "icontext": "#4A4A4A",
+                "text": "#4A4A4A",
+                "remarktext": "#999999",
+                "linktext": "#368DE7",
+                "back": "#F0F0F0",
+                "targetLabel": "#FFFFFF",
+                "whiteLabel": "#FFFFFF",
+                "indicatorStyle" : "UIActivityIndicatorViewStyleGray"
+            },
+            "list": {
+                "contenttext": "#4A4A4A",
+                "remarktext": "#999999",
+                "contentback": "#FFFFFF",
+                "titleunenabletext": "#999999",
+                "titleenabletext": "#4A4A4A",
+                "back": "#FFFFFF"
+            },
+            "doublelist": {
+                "title": "#999999",
+                "content": "#4A4A4A"
+            },
+            "funclist1": {
+                "text": "#4A4A4A",
+                "back": "#FFFFFF"
+            },
+            "funclist2": {
+                "text": "#4A4A4A",
+                "remark": "#999999",
+                "back": "#FFFFFF"
+            },
+            "textfield": {
+                "placeholder": "#C7C7C7",
+                "title": "#999999",
+                "content": "#4A4A4A",
+                "back": "#FFFFFF"
+            },
+            "content": {
+                "title": "#000000",
+                "detail": "#4A4A4A",
+                "remark": "#999999",
+                "back": "#FFFFFF",
+                "contentback": "#fcfafa",
+                "contenttext": "#8d2d2d"
+            },
+            "pagelabelnav": {
+                "pagelabelnav1": {
+                    "seltext": "#E84342",
+                    "unseltext": "#4A4A4A",
+                    "line": "#E84342",
+                    "back": "#FFFFFF"
+                },
+                "pagelabelnav2": {
+                    "seltext": "#E84342",
+                    "unseltext": "#4A4A4A",
+                    "line": "#E84342",
+                    "back": "#FFFFFF"
+                }
+            },
+            "navigationhtml5": {
+                "text": "#DCDCDC",
+                "back": "#1A1A23"
+            },
+            "pull": {
+                "text": "#4A4A4A",
+                "back": "#FFFFFF"
+            },
+            "separationline": {
+                "barshadow": "#0000001C",
+                "border" : "#C7C7C7",
+                "fullscreen": "#E6E6E6",
+                "navshadow": "#0000001C",
+                "unfullscreen": "#E6E6E6",
+                "verticalline": "#E6E6E6"
+            },
+            "tabbar": {
+                "unseltext": "#4A4A4A",
+                "seltext": "#E84342",
+                "back": "#FFFFFF"
+            },
+            "unusual": {
+                "text": "#999999",
+                "toasttext": "#FFFFFF",
+                "toastback": "#E84342"
+            },
+            "navigation": {
+                "title": "#4A4A4A",
+                "subtitle": "#999999",
+                "unseltext": "#C7C7C7",
+                "seltext": "#E84342",
+                "back": "#FFFFFF"
+            },
+            "whiteStatusBar": {
+                "style": "UIStatusBarStyleLightContent"
+            },
+            "blackStatusBar": {
+                "style": "UIStatusBarStyleDefault"
+            }
+        },
+        "home": {
+            "sudoku":{
+                "usedBackColor":"#E843420F",
+                "backColor":"#f7f7f7"
+            }
+        },
+        "market": {
+            "searchNavigation": {
+                "back": "#E84342"
+            },
+            "searchPageTopView": {
+                "title": "#FFFFFF",
+                "back": "#E84342"
+            },
+            "common": {
+                "listback": "#FFFFFF"
+            },
+            "detail" : {
+                "wave" : {
+                    "fall": "#28A946",
+                    "flat": "#999999",
+                    "rise": "#E84342",
+                    "transparencyRise": "FFFFFF1A",
+                    "transparencyFlat": "FFFFFF1A",
+                    "transparencyFall": "FFFFFF1A"
+                },
+                "text" : {
+                    "fall": "#FFFFFF",
+                    "flat": "#FFFFFF",
+                    "rise": "#FFFFFF"
+                }
+            },
+            "toolbar": {
+                "back": "#FFFFFF",
+                "text": "#4A4A4A"
+            }
+        },
+        "trade": {
+            "fundshare": {
+                "rise": "#E84342",
+                "flat": "#999999",
+                "fall": "#28A946"
+            },
+            "pulllist": {
+                "back": "#F1F1F1",
+                "separation": "#DCDCDC",
+                "fold": "#DCDCDC"
+            },
+            "position": {
+                "rise": "#FFFFFF",
+                "flat": "#FFFFFF",
+                "fall": "#FFFFFF"
+            },
+            "gradientColor":{
+                "first":"#92B0DD",
+                "second":"#747DC2"
+            },
+            "vote": {
+                "buttonDefult": "F0F0F0"
+            },
+            "normalGradientColor": {
+                "first":"#FF6C9A",
+                "second":"#FF5B5A"
+            },
+            "creditGradientColor": {
+                "first":"#FFBB4C",
+                "second":"#FF854D"
+            },
+            "buysell" : {
+                "limitorder" : {
+                    "unback" : "#CCCCCC",
+                    "back" : "#368DE7"
+                }
+            },
+            "remarkText": "#FFFFFF",
+            "homeRemarkText": "#FFFFFF"
+        },
+        "mall": {
+            "listHyperlinks": "#368DE7",
+            "businessRise": "#E84342",
+            "businessFlat": "#999999",
+            "businessFall": "#28A946",
+            "homeNav": "#E84342",
+            "hotSearch": "#F0F0F0",
+            "searchBack": "#F0F0F0",
+            "homeSearchBack": "#FFFFFF3B",
+            "lineChartFillColor":"#EDF5FF",
+            "homeStatement": "#FAFAFA"
+        },
+        "mine": {
+            "home" : {
+                "shadowColor" : "#E84342FF"
+            },
+            "msg" : {
+                "shadowColor" : "#999999",
+                "maskColor" : "#FFFFFF66",
+                "dateTextColor" : "#FFFFFF",
+                "bubbleTextColor" : "#FFFFFF"
+            }
+        }
+    },
+    "image" : {
+        "common" : {
+            "agreed_sel" : "mallAgreeBtnRed",
+            "back" : "webview_back",
+            "multiplechoice" : "",
+            "multiplechoice_sel" : "",
+            "right_arrow" : "",
+            "search" : "",
+            "share" : "",
+            "singlechoice" : "",
+            "singlechoice_sel" : ""
+        },
+        "home" : {
+            "nineCells" : {
+                "choumafenbu" : "",
+                "guozhainihuigou" : "",
+                "gupiaochicang" : "",
+                "gupiaomaichu" : "",
+                "gupiaomairu" : "",
+                "gushihuiyilu" : "",
+                "gushiyuezhangdan" : "",
+                "hongshanhuzixun" : "",
+                "jijinchicang" : "",
+                "jijindingtou" : "",
+                "jisukaihu" : "",
+                "kequzijin" : "",
+                "myaccount" : "",
+                "niuxiaoer" : "",
+                "otcchicang" : "",
+                "qijiandian" : "",
+                "remailicai" : "",
+                "resougupiao" : "",
+                "taipingyangyanjiu" : "",
+                "wodexiaoxi" : "",
+                "xiangsikxian" : "",
+                "xingushengou" : "",
+                "yewubanli" : "",
+                "yinzhengzhuanzhang" : "",
+                "zichanfenxi" : "",
+                "zixuangu" : "",
+                "zixuanguxinwen" : "",
+                "zixunyaowen" : "",
+                "zongzichan" : ""
+            },
+            "hotSale":{
+                "jijinchicang":"mall_fund_holder"
+            }
+        },
+        "market" : {
+            "common" : {
+                "hq_header_hq_normal" : "hq_header_hq_normal_white",
+                "hq_header_hq_select" : "hq_header_hq_select_white",
+                "hq_header_optional_normal" : "hq_header_optional_normal_white",
+                "hq_header_optional_select" : "hq_header_optional_select_white",
+                "hq_header_policy_normal" : "hq_header_policy_normal_white",
+                "hq_header_policy_select" : "hq_header_policy_select_white",
+                "hq_filer_down" : "hq_filer_down_white",
+                "hq_filter_normal" : "hq_filter_normal_white",
+                "hq_hk_open_account" : "hq_hk_open_account_white"
+            },
+            "optional" : {
+                "hq_optional_darkdown" : "hq_optional_darkdown_white",
+                "hq_optional_dongtai" : "hq_optional_dongtai_white",
+                "hq_optional_dujia" : "hq_optional_dujia_white",
+                "hq_optional_edit" : "hq_optional_edit_white",
+                "hq_optional_lightdown" : "hq_optional_lightdown_white",
+                "hq_optional_zixun" : "hq_optional_zixun_white",
+                "hq_optionaledit_addhold" : "hq_optionaledit_addhold_white",
+                "hq_optionaledit_alert" : "hq_optionaledit_alert_white",
+                "hq_optionaledit_select" : "hq_optionaledit_select_white",
+                "hq_optionaledit_sort" : "hq_optionaledit_sort_white",
+                "hq_optionaledit_totop" : "hq_optionaledit_totop_white"
+            }
+        },
+        "mall" : {
+            "huoqi" : "mallhuoqi",
+            "dingqi" : "malldingqi",
+            "jijin" : "malljijin",
+            "gengduo" : "mallgengduo",
+            "jijinpaihang" : "malljijinpaihang",
+            "zhutitouzi" : "mallzhutitouzi",
+            "jingxuanjijin" : "malljingxuanjijin",
+            "dingtouzhuanqu" : "malldingtouzhuanqu",
+            "shoufajijin" : "mallshoufajijin",
+            "jijinzixun" : "malljijinzixun",
+            "yuyuechenggong": "revise_success",
+            "mall_yuyueyiman": "mall_yuyueyiman_white",
+            "mall_yishouqing": "mall_yishouqing_white",
+            "mall_yixiajia": "mall_yixiajia_white"
+        },
+        "mine" : {
+            "gushihuiyilv" : "minegushihyl",
+            "gushiyuezhangdan" : "minegushiyzd",
+            "kefurenxian" : "minekefurexian",
+            "kehujingli" : "minekehujingli",
+            "wodetixing" : "minewodetixing",
+            "yijianfankui" : "mineyijianfankui",
+            "yingyewangdian" : "mineyingyewangdian",
+            "zhinengkefu" : "minezhinengkefu",
+            "zhuanzhangmingxi" : "minezhuanzhangmx",
+            "zichanfenxi" : "minezichanfenxi"
+        },
+        "trade" : {
+            "changneijijin" : "",
+            "chanpinchaxun" : "",
+            "chicanggupiao" : "",
+            "common" : {
+                "chedan" : "",
+                "chengjiaochaxun" : "",
+                "fene" : "",
+                "gengduo" : "",
+                "jiaogedan" : "",
+                "rengou" : "",
+                "shengou" : "",
+                "shuhui" : "",
+                "wangluotoupiao" : "",
+                "weituochaxun" : ""
+            },
+            "danbaopinmaimai" : "",
+            "danbaopinzhengquanchaxun" : "",
+            "dianzihetong" : "",
+            "diaobojiluchaxun" : "",
+            "duoyinhangyuechaxun" : "",
+            "eftshuhui" : "",
+            "etfchengfenguchaxun" : "",
+            "etfrengouchaxun" : "",
+            "etfrengouchedan" : "",
+            "etfshengou" : "",
+            "etfshenshuchedan" : "",
+            "etfwangshangxianjinrengou" : "",
+            "etfwangxiagupiaorengou" : "",
+            "fenhongshezhi" : "",
+            "fenjijijinchedan" : "",
+            "fenjijijinfenchai" : "",
+            "fenjijijinhebing" : "",
+            "fuzhailiushui" : "",
+            "gupiaomaichu" : "",
+            "gupiaomairu" : "",
+            "gushiyuezhangdanback" : "",
+            "heyuezhanqi" : "",
+            "huankuan" : "",
+            "huanquan" : "",
+            "huobijijin" : "",
+            "jijindianzihetongqianshu" : "",
+            "jijindingtou" : "",
+            "jijinkaihu" : "",
+            "jijinxinxi" : "",
+            "jijinzhanghuchaxun" : "",
+            "jijinzhuanhuan" : "",
+            "kuajingetfshengou" : "",
+            "kuajingetfshuhui" : "",
+            "kuashichangetfshengou" : "",
+            "kuashichangetfshuhui" : "",
+            "lishichengjiao" : "",
+            "otczhanghu" : "",
+            "rongmairongmai" : "",
+            "rongquanbiaodechaxun" : "",
+            "rongquanheyue" : "",
+            "rongzibiaodechaxun" : "",
+            "rongziheyue" : "",
+            "toupiaochaxun" : "",
+            "weiliaojieheyue" : "",
+            "yiliaojieheyue" : "",
+            "yinhanglicaipingce" : "",
+            "yinhangzhuanzhengquan" : "",
+            "yinzhengzhuanzhang": {
+                "textfieldBg":"trade_grayLine"
+            },
+            "zhanghu" : "",
+            "zhanghuzonglanback" : "",
+            "zhanghuzonglanxinyongback" : "",
+            "zhengquanzhuanyinhang" : "",
+            "zhuanzhangliushuichaxun" : "",
+            "zichanfuzhai" : "",
+            "zijiliushuichaxun" : "",
+            "zijindiaobo" : "",
+            "zijinguiji" : "",
+            "zijinmingxi" : "",
+            "zongzichanback" : "",
+            "zonhgzichanfenxiback" : "",
+            "banklist":{
+                "bj":"banklogo_bjbank",
+                "gd":"banklogo_gdbank",
+                "gf":"banklogo_gfbank",
+                "gs":"banklogo_gsbank",
+                "hx":"banklogo_hxbank",
+                "js":"banklogo_jsbank",
+                "jt":"banklogo_jtbank",
+                "ms":"banklogo_msbank",
+                "nb":"banklogo_nbbank",
+                "ny":"banklogo_nybank",
+                "pa":"banklogo_pabank",
+                "pf":"banklogo_pfbank",
+                "sh":"banklogo_shbank",
+                "xy":"banklogo_xybank",
+                "yz":"banklogo_yzbank",
+                "zg":"banklogo_zgbank",
+                "zs":"banklogo_zsbank",
+                "zx":"banklogo_zxbank"
+            },
+            "weituotijiao":"mall_commitimg"
+        },
+        "tabbar" : {
+            "home" : "",
+            "home_sel" : "",
+            "market" : "",
+            "market_sel" : "",
+            "mine" : "",
+            "mine_sel" : "",
+            "trade" : "",
+            "trade_sel" : ""
+        }
+    }
+}
