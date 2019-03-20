@@ -63,6 +63,8 @@
 #import "PanGuRefreshHeader.h"
 #import "PanGuRefreshFooter.h"
 #import "Masonry.h"
+#import "UIImage+YHPDFIcon.h"
+
 
 
 #endif /* PanGu_Base_Bms_h */

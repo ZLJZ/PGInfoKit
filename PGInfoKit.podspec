@@ -45,5 +45,6 @@ TODO: Add long description of the pod here.
   s.dependency 'PGToolKit' , '0.1.4'
   s.dependency 'PGNetworkKit' , '0.1.6'
   s.dependency 'Masonry' , '1.0.2'
+  s.dependency 'YHPDFImageLoader', '~> 1.0.0'
 
 end
