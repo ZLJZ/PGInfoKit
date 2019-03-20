@@ -8,6 +8,7 @@
 
 #import "TradePDFController.h"
 #import "PDFWebView.h"
+#import "PGInfo.h"
 
 
 @interface TradePDFController ()

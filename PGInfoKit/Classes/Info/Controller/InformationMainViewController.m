@@ -14,6 +14,7 @@
 #import "InfoTagViewController.h"
 #import "InfoHeaderDefine.h"
 #import "PacificInstituteViewController.h"
+#import "PGInfo.h"
 
 
 @interface InformationMainViewController ()<UIScrollViewDelegate>

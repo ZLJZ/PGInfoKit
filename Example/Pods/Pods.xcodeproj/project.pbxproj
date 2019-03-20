@@ -483,7 +483,6 @@
 		3C0055DA1130771C0D78C11C8B84B99B /* EditColumnModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = EditColumnModel.m; path = PGModelKit/Classes/Model/EditColumnModel.m; sourceTree = "<group>"; };
 		3C29ED22A6AC644A562D74E365554554 /* MJRefreshAutoStateFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoStateFooter.m; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.m; sourceTree = "<group>"; };
 		3CBB8816EA402D648E186225E1E0A4C7 /* MJRefreshHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshHeader.h; path = MJRefresh/Base/MJRefreshHeader.h; sourceTree = "<group>"; };
-		3D0F0B122242244800610489 /* PanGu_Base_Bms.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PanGu_Base_Bms.pch; sourceTree = "<group>"; };
 		3D0F0B132242244800610489 /* PanGuThemeColorDefinition.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PanGuThemeColorDefinition.h; sourceTree = "<group>"; };
 		3D0F0B142242244800610489 /* defaulturl.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = defaulturl.txt; sourceTree = "<group>"; };
 		3D0F0B152242244800610489 /* 夜间模式.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "夜间模式.json"; sourceTree = "<group>"; };
@@ -494,7 +493,6 @@
 		3D0F0B1B2242244800610489 /* PanGu_ConfigBase_Bms.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PanGu_ConfigBase_Bms.h; sourceTree = "<group>"; };
 		3D0F0B1C2242244800610489 /* PanGu_Base_Bms.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PanGu_Base_Bms.h; sourceTree = "<group>"; };
 		3D0F0B1D2242244800610489 /* UrlManager.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = UrlManager.h; sourceTree = "<group>"; };
-		3D0F0B1E2242244800610489 /* PGHeaderDefine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PGHeaderDefine.h; sourceTree = "<group>"; };
 		3D0F0B1F2242244800610489 /* AllConstDefine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AllConstDefine.h; sourceTree = "<group>"; };
 		3D0F0B202242244800610489 /* 日间模式.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "日间模式.json"; sourceTree = "<group>"; };
 		3D0F0B212242244800610489 /* PanGuThemeImageDefinition.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PanGuThemeImageDefinition.h; sourceTree = "<group>"; };
@@ -554,6 +552,7 @@
 		3D0F0B592242244800610489 /* InfoCalculate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InfoCalculate.m; sourceTree = "<group>"; };
 		3D0F0B5A2242244800610489 /* InfoDataManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = InfoDataManager.m; sourceTree = "<group>"; };
 		3D0F0B5B2242244800610489 /* BaseViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		3D0F0B5C22422CD500610489 /* PGInfo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PGInfo.h; sourceTree = "<group>"; };
 		3E3E9AEEBC90008A761F7397843E321F /* TXSakuraTextComponent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXSakuraTextComponent.h; path = PGToolKit/Classes/ToolHelper/SakuraKit/Components/TXSakuraTextComponent.h; sourceTree = "<group>"; };
 		3E748F857C580DDD14068B986470971B /* UIView+XMGExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+XMGExtension.h"; path = "PGToolKit/Classes/ToolHelper/UIViewCategory/UIView+XMGExtension.h"; sourceTree = "<group>"; };
 		3EEE3B9C5AAE66668E881C6DC14A48CA /* TAPageControl.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TAPageControl.m; path = PGToolKit/Classes/ToolHelper/SDCycleScrollView/PageControl/TAPageControl.m; sourceTree = "<group>"; };
@@ -1118,6 +1117,7 @@
 				3D0F0B242242244800610489 /* Controller */,
 				3D0F0B372242244800610489 /* View */,
 				3D0F0B5B2242244800610489 /* BaseViewController.h */,
+				3D0F0B5C22422CD500610489 /* PGInfo.h */,
 			);
 			name = Info;
 			path = PGInfoKit/Classes/Info;
@@ -1126,7 +1126,6 @@
 		3D0F0B112242244800610489 /* Config */ = {
 			isa = PBXGroup;
 			children = (
-				3D0F0B122242244800610489 /* PanGu_Base_Bms.pch */,
 				3D0F0B132242244800610489 /* PanGuThemeColorDefinition.h */,
 				3D0F0B142242244800610489 /* defaulturl.txt */,
 				3D0F0B152242244800610489 /* 夜间模式.json */,
@@ -1134,7 +1133,6 @@
 				3D0F0B1B2242244800610489 /* PanGu_ConfigBase_Bms.h */,
 				3D0F0B1C2242244800610489 /* PanGu_Base_Bms.h */,
 				3D0F0B1D2242244800610489 /* UrlManager.h */,
-				3D0F0B1E2242244800610489 /* PGHeaderDefine.h */,
 				3D0F0B1F2242244800610489 /* AllConstDefine.h */,
 				3D0F0B202242244800610489 /* 日间模式.json */,
 				3D0F0B212242244800610489 /* PanGuThemeImageDefinition.h */,

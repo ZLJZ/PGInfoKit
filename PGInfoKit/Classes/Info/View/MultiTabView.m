@@ -7,6 +7,7 @@
 //
 
 #import "MultiTabView.h"
+#import "PGInfo.h"
 
 @interface MultiTabView ()<UIScrollViewDelegate>
 //分割view

@@ -7,6 +7,7 @@
 //
 
 #import "CreateViewTool.h"
+#import "PGInfo.h"
 
 @implementation CreateViewTool
 

@@ -12,6 +12,7 @@
 #import "InfoDetailViewController.h"
 //#import "HQAboutDetailViewController.h"
 #import "InfoHeaderDefine.h"
+#import "PGInfo.h"
 
 
 @interface InfoTagViewController ()<UITableViewDelegate,UITableViewDataSource>

@@ -8,6 +8,7 @@
 
 #import "InfoDataManager.h"
 #import "PanGuMallHeader.h"
+#import "PGInfo.h"
 
 @implementation InfoDataManager
 

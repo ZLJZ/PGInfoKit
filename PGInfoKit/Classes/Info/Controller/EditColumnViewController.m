@@ -9,6 +9,7 @@
 #import "EditColumnViewController.h"
 #import "EditColumnTableViewCell.h"
 #import "InfoCalculate.h"
+#import "PGInfo.h"
 
 
 @interface EditColumnViewController ()<UITableViewDelegate,UITableViewDataSource>

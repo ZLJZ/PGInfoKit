@@ -9,6 +9,7 @@
 #import "PacificInstituteTableViewCell.h"
 #import "InfoCalculate.h"
 #import "InvestmentAdviserTableViewCell.h"
+#import "PGInfo.h"
 
 @implementation PacificInstituteTableViewCell
 

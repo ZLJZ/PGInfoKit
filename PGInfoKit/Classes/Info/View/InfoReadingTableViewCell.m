@@ -7,6 +7,8 @@
 //
 
 #import "InfoReadingTableViewCell.h"
+#import "PGInfo.h"
+
 #define FONT_SYSTEM                     @"Helvetica"
 @implementation InfoReadingTableViewCell
 

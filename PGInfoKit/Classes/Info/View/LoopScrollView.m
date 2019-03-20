@@ -8,6 +8,7 @@
 
 #import "LoopScrollView.h"
 #import "InfoImportantNewsModel.h"
+#import "PGInfo.h"
 
 @interface LoopScrollView()<UIScrollViewDelegate>
 

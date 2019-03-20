@@ -7,6 +7,8 @@
 //
 
 #import "BaseViewController.h"
+#import "PGInfo.h"
+
 
 @interface BaseViewController ()<UINavigationControllerDelegate>
 

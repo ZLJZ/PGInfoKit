@@ -7,6 +7,7 @@
 //
 
 #import "PanGuMallListTableViewHeaderView.h"
+#import "PGInfo.h"
 
 @interface PanGuMallListTableViewHeaderView()
 

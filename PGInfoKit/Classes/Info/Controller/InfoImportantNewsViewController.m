@@ -15,6 +15,7 @@
 #import "InfoDetailViewController.h"
 
 #import "UIImage+info.h"
+#import "PGInfo.h"
 
 
 

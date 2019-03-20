@@ -15,6 +15,8 @@
 #import "TradePDFController.h"
 #import "WXLLabel.h"
 #import "InfoDataManager.h"
+#import "PGInfo.h"
+
 
 @interface InfoDetailViewController ()<UITableViewDelegate,UITableViewDataSource,WKNavigationDelegate>
 {

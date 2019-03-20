@@ -7,6 +7,7 @@
 //
 
 #import "InfoTagTableViewCell.h"
+#import "PGInfo.h"
 
 @implementation InfoTagTableViewCell
 

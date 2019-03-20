@@ -7,6 +7,7 @@
 //
 
 #import "UrlManager.h"
+#import "PGInfo.h"
 
 @interface ConfigURL()
 {

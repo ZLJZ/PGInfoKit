@@ -12,6 +12,7 @@
 #import "InfoCalculate.h"
 #import "NetworkRequest.h"
 #import "InfoReadingModel.h"
+#import "PGInfo.h"
 
 
 @interface InfoReadingViewController ()<UITableViewDelegate,UITableViewDataSource>

@@ -13,6 +13,8 @@
 #import "InfoDetailViewController.h"
 #import "InfoHeaderDefine.h"
 #import "PanGuMallHeader.h"
+#import "PGInfo.h"
+
 
 @interface PacificInstituteViewController ()<SDCycleScrollViewDelegate>
 

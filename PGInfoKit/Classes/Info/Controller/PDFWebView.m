@@ -7,6 +7,7 @@
 //
 
 #import "PDFWebView.h"
+#import "PGInfo.h"
 
 @interface PDFWebView ()
 @property (nonatomic,strong) UIView * backView;

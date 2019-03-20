@@ -7,7 +7,7 @@
 //
 
 #import "HeadSrcollView.h"
-//#import "POP.h"
+#import "PGInfo.h"
 
 #define LabelWidth 60
 #define LabelHeight 35

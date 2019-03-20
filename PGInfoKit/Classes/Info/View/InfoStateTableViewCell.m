@@ -7,6 +7,7 @@
 //
 
 #import "InfoStateTableViewCell.h"
+#import "PGInfo.h"
 
 @implementation InfoStateTableViewCell
 

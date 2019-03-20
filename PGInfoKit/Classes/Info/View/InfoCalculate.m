@@ -7,6 +7,7 @@
 //
 
 #import "InfoCalculate.h"
+#import "PGInfo.h"
 
 #define FONT_SYSTEM                     @"Helvetica"
 @implementation InfoCalculate

@@ -7,6 +7,7 @@
 //
 
 #import "InfoImportantNewsTableViewCell.h"
+#import "PGInfo.h"
 
 @implementation InfoImportantNewsTableViewCell
 

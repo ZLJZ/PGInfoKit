@@ -7,6 +7,7 @@
 //
 
 #import "InvestmentAdviserTableViewCell.h"
+#import "PGInfo.h"
 
 @interface InvestmentAdviserTableViewCell ()
 

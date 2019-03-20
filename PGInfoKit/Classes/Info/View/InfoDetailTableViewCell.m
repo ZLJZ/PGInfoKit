@@ -8,6 +8,7 @@
 //
 
 #import "InfoDetailTableViewCell.h"
+#import "PGInfo.h"
 
 @interface InfoDetailTableViewCell ()
 

@@ -8,6 +8,7 @@
 
 #import "AccessoryTableViewCell.h"
 #import "InfoCalculate.h"
+#import "PGInfo.h"
 
 @implementation AccessoryTableViewCell
 
