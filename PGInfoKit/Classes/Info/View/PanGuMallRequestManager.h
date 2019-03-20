@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "PanGuMallHeader.h"
 #import "PanGuAdModel.h"
+#import "PGInfo.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

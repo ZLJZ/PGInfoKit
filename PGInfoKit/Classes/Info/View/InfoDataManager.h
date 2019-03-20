@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "InfoHeaderDefine.h"
+#import "PGInfo.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
