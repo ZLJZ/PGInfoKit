@@ -56,8 +56,6 @@
 //scroll空图片
 #import "UIScrollView+EmptyDataSet.h"
 
-#import "UIImage+YHPDFIcon.h"
-
 #import "TXSakuraKit.h"
 #import "PanGuThemeColorDefinition.h"
 #import "PanGuThemeImageDefinition.h"

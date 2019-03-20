@@ -70,7 +70,7 @@
  
  @param rect          位置
  @param image         图片
- @param selectedImage 选中的图片
+ @param selectImage 选中的图片
  @param superView     父视图
  @return UIButton
  */
