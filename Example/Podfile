@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PGInfoKit_Example' do
+  pod 'PGInfoKit', :path => '../'
+
+  target 'PGInfoKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
