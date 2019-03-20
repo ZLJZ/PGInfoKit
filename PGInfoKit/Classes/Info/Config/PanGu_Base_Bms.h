@@ -48,7 +48,6 @@
 #import "AFNetworkActivityIndicatorManager.h"
 
 
-#import "AppDelegate.h"
 #import "HttpRequest.h"
 #import "CreateViewTool.h"
 
