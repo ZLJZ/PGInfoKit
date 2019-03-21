@@ -26,6 +26,7 @@
 #import "LLARingSpinnerView.h"
 #import "MyAttributedStringBuilder.h"
 #import "NSArray+set.h"
+#import "NSBundle+Path.h"
 #import "TXSakura.h"
 #import "TXSakuraManager.h"
 #import "UIImage+Tint.h"
