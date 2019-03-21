@@ -17,19 +17,19 @@ PODS:
   - Masonry (1.0.2)
   - MBProgressHUD (1.1.0)
   - MJRefresh (3.1.15.7)
-  - PGInfoKit (0.1.7):
+  - PGInfoKit (0.1.8):
     - Masonry (= 1.0.2)
     - MBProgressHUD (~> 1.1.0)
     - MJRefresh (~> 3.1.15)
     - PGModelKit (= 0.1.0)
     - PGNetworkKit (= 0.1.6)
-    - PGToolKit (= 0.1.5)
+    - PGToolKit (= 0.1.6)
     - YHPDFImageLoader (~> 1.0.0)
   - PGModelKit (0.1.0)
   - PGNetworkKit (0.1.6):
     - AFNetworking (~> 3.1.0)
     - Reachability (~> 3.2)
-  - PGToolKit (0.1.5):
+  - PGToolKit (0.1.6):
     - SDWebImage (~> 4.2.2)
   - Reachability (3.2)
   - SDWebImage (4.2.3):
@@ -63,10 +63,10 @@ SPEC CHECKSUMS:
   Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
   MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
   MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
-  PGInfoKit: 38c2eb895abdb245a2ff0619950d3ab4fc4d282c
+  PGInfoKit: cee5d400b4a400065e35e3919b76117c5cc6bf82
   PGModelKit: e02d3775292a07b12a908ee7766d8beebb03ebe8
   PGNetworkKit: 4e1ea2b145aac8de42e107c699bc34bd2671f58b
-  PGToolKit: 1bfad56d0f7120ce1514b84aaab644d399ab846a
+  PGToolKit: 9bf2ba02a3b0faf260399f0087c9b63e782dbf9e
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
   SDWebImage: 791bb72962b3492327ddcac4b1880bd1b5458431
   YHPDFImageLoader: cd9628397fff7fd72368cd26dbc5290f05311276

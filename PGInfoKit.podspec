@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PGInfoKit'
-  s.version          = '0.1.7'
+  s.version          = '0.1.8'
   s.summary          = 'A short description of PGInfoKit.'
 
 # This description is used to generate tags and improve search results.
@@ -45,7 +45,7 @@ TODO: Add long description of the pod here.
   s.dependency 'MJRefresh', '~> 3.1.15'
   s.dependency 'MBProgressHUD', '~> 1.1.0'
   s.dependency 'PGModelKit' , '0.1.0'
-  s.dependency 'PGToolKit' , '0.1.5'
+  s.dependency 'PGToolKit' , '0.1.6'
   s.dependency 'PGNetworkKit' , '0.1.6'
   s.dependency 'Masonry' , '1.0.2'
   s.dependency 'YHPDFImageLoader', '~> 1.0.0'

@@ -614,9 +614,9 @@ static NSString *kTXSakuraDiretoryName = @"com.tingxins.sakura";
 
 // Catch local configs file in bundle
 + (NSString *)tx_getSakuraConfigsFileBundlePathWithName:(NSString *)sakuraName {
-    NSString *configsFilepath = [[NSBundle mainBundle] pathForResource:sakuraName ofType:kTXFileExtensionPLIST];
+    NSString *configsFilepath = [[NSBundle bundleForClass:[self class]] pathForResource:sakuraName ofType:kTXFileExtensionPLIST inDirectory:@"PGInfoKit.bundle"];
     if (!configsFilepath) {
-        configsFilepath = [[NSBundle mainBundle] pathForResource:sakuraName ofType:kTXFileExtensionJSON];
+        configsFilepath = [[NSBundle bundleForClass:[self class]] pathForResource:sakuraName ofType:kTXFileExtensionJSON inDirectory:@"PGInfoKit.bundle"];
     }
     return configsFilepath;
 }
